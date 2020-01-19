@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "python app.py"
+  },
+  "models": {
+    "alwaysai/MobileNetSSD": 5,
+    "alwaysai/mobilenet_ssd": 3
+  }
+}

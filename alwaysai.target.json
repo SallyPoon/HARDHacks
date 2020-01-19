@@ -1,0 +1,4 @@
+{
+  "targetProtocol": "docker:",
+  "dockerImageId": "sha256:85120f6ffd4c8b4e94484861495a84586c8005aac0ca1522ce57fe037ed57482"
+}
